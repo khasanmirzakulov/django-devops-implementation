@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 Clone This Project (Make Sure You Have Git Installed)
@@ -23,3 +24,5 @@ python manage.py createsuperuser
 After all these steps , you can start testing and developing this project. 
 
 #### That's it! Happy Coding!
+=======
+>>>>>>> c39de01793a3f8e11cc45ce97bc0af3cb74a6259
